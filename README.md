@@ -10,11 +10,6 @@ This project is a lightweight Question-Answering API built with **FastAPI**, **C
 
 - 🔍 Search semantically similar questions using embeddings
 - ➕ Add new question-answer pairs to the vector database
-- 🧠 Generate context text for large language models (LLMs)
-- 🧾 Create support-focused prompts using retrieved information
 - 💾 Uses [ChromaDB](https://www.trychroma.com/) for persistent vector storage
 
 ---
-
-## 📁 Project Structure
-
